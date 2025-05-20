@@ -4,5 +4,12 @@
 			"path": "../.."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"workbench.editor.closeOnFileDelete": false,
+		"workbench.editor.centeredLayoutFixedWidth": true,
+		"workbench.editor.autoLockGroups": {
+			"gitlens.rebase": true,
+			"workbench.input.interactive": true
+		}
+	}
 }
